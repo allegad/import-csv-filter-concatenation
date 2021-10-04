@@ -1,0 +1,11 @@
+Name,LegID,Portfolio,Pool,Position,Currency,MtM(t),Current VaR(t)
+Position 1,Position 1,Book 1,EQ,10,USD,100,5
+Position 2,Position 2,Book 1,IR,20,CAD,150,7.5
+Position 3,Position 3,Book 2,EQ,30,CAD,200,10
+Position 4,Position 4,Book 2,IR,40,USD,250,12.5
+Position 5,Position 5,Book 3,EQ,50,USD,300,15
+Position 6,Position 6,Book 3,IR,60,CAD,350,17.5
+Position 7,Position 7,Book 4,EQ,70,CAD,400,20
+Position 8,Position 8,Book 4,IR,80,USD,450,22.5
+Position 9,Position 9,Book 5,EQ,90,USD,500,25
+Position 10,Position 10,Book 5,IR,100,CAD,550,27.5
